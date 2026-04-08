@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 94,
-    "description": "A.M.E. | by tickwarden | 1.21.x | v3.0.1-pre2",
+    "description": "A.M.E. | by tickwarden | 1.21.6+ | v3.0.1-pre2",
     "supported_formats": {
       "min_inclusive": 80,
       "max_inclusive": 400000
